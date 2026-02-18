@@ -1,8 +1,3 @@
-// /**
-//  * @param {number[]} nums
-//  * @return {number[]}
-//  */
-
 // var productExceptSelf = function (nums) {
 //   const result = [];
 
@@ -23,6 +18,20 @@
 
 //------------------------------
 //* Solution 2
+// var productExceptSelf = function (nums) {
+//   const result = [];
+//   let copyNums = [...nums];
+
+//   for (let i = 0; i < nums.length; i++) {
+//     result[i] = eval(copyNums.filter((n, index) => index !== i).join('*'));
+//     copyNums = [...nums];
+//   }
+
+//   return result;
+// };
+
+//------------------------------
+//* Solution 3
 //* Used Hint 1
 //* Think how you can efficiently utilize prefix and suffix products to calculate the product of all elements except self for each index. Can you pre-compute the prefix and suffix products in linear time to avoid redundant calculations?
 
