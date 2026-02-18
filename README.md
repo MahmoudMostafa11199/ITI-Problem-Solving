@@ -23,7 +23,7 @@
 
 ### Day 1 – Arrays & Hashing
 
-- [x] **[Two Sum](./Day-01/Two-Sum.js) | [Problem Link](https://leetcode.com/problems/two-sum/)** (Easy)
+- [x] **[Two Sum](./Day%201/01-Two-Sum.js) | [Problem Link](https://leetcode.com/problems/two-sum/)** (Easy)
 - [x] **[Contains Duplicate](./Day%201/02-ContainsDuplicate.js) | [Problem Link](https://leetcode.com/problems/contains-duplicate/)** (Easy)
 - [x] **[Valid Anagram](./Day%201/03-ValidAnagram.js) | [Problem Link](https://leetcode.com/problems/valid-anagram/)** (Easy)
 - [x] **[Group Anagrams](./Day%201/04-GroupAnagrams.js) |[Problem Link](https://leetcode.com/problems/group-anagrams/)** (Medium)
