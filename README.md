@@ -37,58 +37,58 @@
 
 ### Day 3 – Two Pointers
 
-- [ ] **Valid Palindrome** (Easy)
-- [ ] **3Sum** (Medium)
-- [ ] **Container With Most Water** (Medium)
-- [ ] **Remove Duplicates from Sorted Array** (Easy)
+- [ ] **Valid Palindrome | [Problem Link](https://leetcode.com/problems/valid-palindrome/) (Easy)**
+- [ ] **3Sum | [Problem Link](https://leetcode.com/problems/3sum/) (Medium)**
+- [ ] **Container With Most Water | [Problem Link](https://leetcode.com/problems/container-with-most-water/) (Medium)**
+- [ ] **Remove Duplicates from Sorted Array | [Problem Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) (Easy)**
 
 ### Day 4 – Sliding Window
 
-- [ ] **Longest Substring Without Repeating Characters** (Medium)
-- [ ] **Longest Repeating Character Replacement** (Medium)
-- [ ] **Minimum Size Subarray Sum** (Medium)
-- [ ] **Permutation in String** (Medium)
+- [ ] **Longest Substring Without Repeating Characters | [Problem Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/) (Medium)**
+- [ ] **Longest Repeating Character Replacement | [Problem Link](https://leetcode.com/problems/longest-repeating-character-replacement/) (Medium)**
+- [ ] **Minimum Size Subarray Sum | [Problem Link](https://leetcode.com/problems/minimum-size-subarray-sum/) (Medium)**
+- [ ] **Permutation in String | [Problem Link](https://leetcode.com/problems/permutation-in-string/) (Medium)**
 
 ### Day 5 – Stack & Monotonic Stack
 
-- [ ] **Valid Parentheses** (Easy)
-- [ ] **Min Stack** (Medium)
-- [ ] **Daily Temperatures** (Medium)
-- [ ] **Largest Rectangle in Histogram** (Hard)
+- [ ] **Valid Parentheses | [Problem Link](https://leetcode.com/problems/valid-parentheses/) (Easy)**
+- [ ] **Min Stack | [Problem Link](https://leetcode.com/problems/min-stack/) (Medium)**
+- [ ] **Daily Temperatures | [Problem Link](https://leetcode.com/problems/daily-temperatures/) (Medium)**
+- [ ] **Largest Rectangle in Histogram | [Problem Link](https://leetcode.com/problems/largest-rectangle-in-histogram/) (Hard)**
 
 ### Day 6 – Binary Search
 
-- [ ] **Binary Search** (Easy)
-- [ ] **Search in Rotated Sorted Array** (Medium)
-- [ ] **Find Minimum in Rotated Sorted Array** (Medium)
-- [ ] **Koko Eating Bananas** (Medium)
+- [ ] **Binary Search | [Problem Link](https://leetcode.com/problems/binary-search/) (Easy)**
+- [ ] **Search in Rotated Sorted Array | [Problem Link](https://leetcode.com/problems/search-in-rotated-sorted-array/) (Medium)**
+- [ ] **Find Minimum in Rotated Sorted Array | [Problem Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) (Medium)**
+- [ ] **Koko Eating Bananas | [Problem Link](https://leetcode.com/problems/koko-eating-bananas/) (Medium)**
 
 ### Day 7 – Linked List
 
-- [ ] **Reverse Linked List** (Easy)
-- [ ] **Merge Two Sorted Lists** (Easy)
-- [ ] **Linked List Cycle** (Easy)
-- [ ] **Add Two Numbers** (Medium)
+- [ ] **Reverse Linked List | [Problem Link](https://leetcode.com/problems/reverse-linked-list/) (Easy)**
+- [ ] **Merge Two Sorted Lists | [Problem Link](https://leetcode.com/problems/merge-two-sorted-lists/) (Easy)**
+- [ ] **Linked List Cycle | [Problem Link](https://leetcode.com/problems/linked-list-cycle/) (Easy)**
+- [ ] **Add Two Numbers | [Problem Link](https://leetcode.com/problems/add-two-numbers/) (Medium)**
 
 ### Day 8 – Trees
 
-- [ ] **Maximum Depth of Binary Tree** (Easy)
-- [ ] **Binary Tree Level Order Traversal** (Medium)
-- [ ] **Validate Binary Search Tree** (Medium)
-- [ ] **Diameter of Binary Tree** (Easy)
+- [ ] **Maximum Depth of Binary Tree | [Problem Link](https://leetcode.com/problems/maximum-depth-of-binary-tree/) (Easy)**
+- [ ] **Binary Tree Level Order Traversal | [Problem Link](https://leetcode.com/problems/binary-tree-level-order-traversal/) (Medium)**
+- [ ] **Validate Binary Search Tree | [Problem Link](https://leetcode.com/problems/validate-binary-search-tree/) (Medium)**
+- [ ] **Diameter of Binary Tree | [Problem Link](https://leetcode.com/problems/diameter-of-binary-tree/) (Easy)**
 
 ### Day 9 – Trees + Heap/Greedy
 
-- [ ] **Lowest Common Ancestor of a BST** (Medium)
-- [ ] **Kth Smallest Element in a BST** (Medium)
-- [ ] **Top K Frequent Elements** (Medium)
-- [ ] **Task Scheduler** (Medium)
+- [ ] **Lowest Common Ancestor of a BST | [Problem Link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) (Medium)**
+- [ ] **Kth Smallest Element in a BST | [Problem Link](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) (Medium)**
+- [ ] **Top K Frequent Elements | [Problem Link](https://leetcode.com/problems/top-k-frequent-elements/) (Medium)**
+- [ ] **Task Scheduler | [Problem Link](https://leetcode.com/problems/task-scheduler/) (Medium)**
 
 ### Day 10 – Graphs & DP
 
-- [ ] **Number of Islands** (Medium)
-- [ ] **Clone Graph** (Medium)
-- [ ] **Flood Fill** (Easy)
-- [ ] **House Robber** (Medium)
+- [ ] **Number of Islands | [Problem Link](https://leetcode.com/problems/number-of-islands/) (Medium)**
+- [ ] **Clone Graph | [Problem Link](https://leetcode.com/problems/clone-graph/) (Medium)**
+- [ ] **Flood Fill | [Problem Link](https://leetcode.com/problems/flood-fill/) (Easy)**
+- [ ] **House Robber | [Problem Link](https://leetcode.com/problems/house-robber/) (Medium)**
 
 ---
