@@ -40,7 +40,7 @@
 - [x] **[Valid Palindrome](./Day%203/09-ValidPalindrome.js) | [Problem Link](https://leetcode.com/problems/valid-palindrome/) (Easy)**
 - [x] **[3Sum](./Day%203/10-3Sum.js) | [Problem Link](https://leetcode.com/problems/3sum/) (Medium)**
 - [x] **[Container With Most Water](./Day%203/11-ContainerWithMostWater.js) | [Problem Link](https://leetcode.com/problems/container-with-most-water/) (Medium)**
-- [] **Remove Duplicates from Sorted Array | [Problem Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) (Easy)**
+- [x] **[Remove Duplicates from Sorted Array](./Day%203/12-RemoveDuplicatesSortedArray.js) | [Problem Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) (Easy)**
 
 ### Day 4 – Sliding Window
 
