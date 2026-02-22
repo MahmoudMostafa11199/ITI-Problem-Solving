@@ -4,18 +4,18 @@
 
 ## Progress Summary
 
-| Day | Topic                  | Status      | Done |
-| :-- | :--------------------- | :---------- | :--- |
-| 1   | Arrays & Hashing       | 🟢 Complete | 4/4  |
-| 2   | Arrays & Prefix/Greedy | 🟢 Complete | 4/4  |
-| 3   | Two Pointers           | ⚪ Pending  | 0/4  |
-| 4   | Sliding Window         | ⚪ Pending  | 0/4  |
-| 5   | Stack                  | ⚪ Pending  | 0/4  |
-| 6   | Binary Search          | ⚪ Pending  | 0/4  |
-| 7   | Linked List            | ⚪ Pending  | 0/4  |
-| 8   | Trees                  | ⚪ Pending  | 0/4  |
-| 9   | Trees & Heap           | ⚪ Pending  | 0/4  |
-| 10  | Graphs & DP            | ⚪ Pending  | 0/4  |
+| Day | Topic                  | Status        | Done |
+| :-- | :--------------------- | :------------ | :--- |
+| 1   | Arrays & Hashing       | 🟢 Complete   | 4/4  |
+| 2   | Arrays & Prefix/Greedy | 🟢 Complete   | 4/4  |
+| 3   | Two Pointers           | ⚪ InProgress | 1/4  |
+| 4   | Sliding Window         | ⚪ Pending    | 0/4  |
+| 5   | Stack                  | ⚪ Pending    | 0/4  |
+| 6   | Binary Search          | ⚪ Pending    | 0/4  |
+| 7   | Linked List            | ⚪ Pending    | 0/4  |
+| 8   | Trees                  | ⚪ Pending    | 0/4  |
+| 9   | Trees & Heap           | ⚪ Pending    | 0/4  |
+| 10  | Graphs & DP            | ⚪ Pending    | 0/4  |
 
 ---
 
@@ -37,7 +37,7 @@
 
 ### Day 3 – Two Pointers
 
-- [ ] **Valid Palindrome | [Problem Link](https://leetcode.com/problems/valid-palindrome/) (Easy)**
+- [x] **[Valid Palindrome](./Day%203/09-ValidPalindrome.js) | [Problem Link](https://leetcode.com/problems/valid-palindrome/) (Easy)**
 - [ ] **3Sum | [Problem Link](https://leetcode.com/problems/3sum/) (Medium)**
 - [ ] **Container With Most Water | [Problem Link](https://leetcode.com/problems/container-with-most-water/) (Medium)**
 - [ ] **Remove Duplicates from Sorted Array | [Problem Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) (Easy)**
