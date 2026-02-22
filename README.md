@@ -1,6 +1,6 @@
 # 10-Day LeetCode Grind - 40 Problems
 
-![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow) ![LeetCode](https://img.shields.io/badge/Platform-LeetCode-orangered) ![Progress](https://img.shields.io/badge/Progress-32.5%25-darkgreen)
+![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow) ![LeetCode](https://img.shields.io/badge/Platform-LeetCode-orangered) ![Progress](https://img.shields.io/badge/Progress-35%25-darkgreen)
 
 ## Progress Summary
 
@@ -9,7 +9,7 @@
 | 1   | Arrays & Hashing       | 🟢 Complete    | 4/4  |
 | 2   | Arrays & Prefix/Greedy | 🟢 Complete    | 4/4  |
 | 3   | Two Pointers           | 🟢 Complete    | 4/4  |
-| 4   | Sliding Window         | ⚪ In Progress | 1/4  |
+| 4   | Sliding Window         | 🟡 In Progress | 2/4  |
 | 5   | Stack                  | ⚪ Pending     | 0/4  |
 | 6   | Binary Search          | ⚪ Pending     | 0/4  |
 | 7   | Linked List            | ⚪ Pending     | 0/4  |
@@ -45,7 +45,7 @@
 ### Day 4 – Sliding Window
 
 - [x] **[Longest Substring Without Repeating Characters](./Day%204/13-LongestSubstringWithoutRepeatingCharacters.js) | [Problem Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/) (Medium)**
-- [ ] **Longest Repeating Character Replacement | [Problem Link](https://leetcode.com/problems/longest-repeating-character-replacement/) (Medium)**
+- [x] **[Longest Repeating Character Replacement](./Day%204/14-LongestRepeatingCharacterReplacement.js) | [Problem Link](https://leetcode.com/problems/longest-repeating-character-replacement/) (Medium)**
 - [ ] **Minimum Size Subarray Sum | [Problem Link](https://leetcode.com/problems/minimum-size-subarray-sum/) (Medium)**
 - [ ] **Permutation in String | [Problem Link](https://leetcode.com/problems/permutation-in-string/) (Medium)**
 
