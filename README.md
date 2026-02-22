@@ -38,9 +38,9 @@
 ### Day 3 – Two Pointers
 
 - [x] **[Valid Palindrome](./Day%203/09-ValidPalindrome.js) | [Problem Link](https://leetcode.com/problems/valid-palindrome/) (Easy)**
-- [ ] **3Sum | [Problem Link](https://leetcode.com/problems/3sum/) (Medium)**
-- [ ] **Container With Most Water | [Problem Link](https://leetcode.com/problems/container-with-most-water/) (Medium)**
-- [ ] **Remove Duplicates from Sorted Array | [Problem Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) (Easy)**
+- [x] **[3Sum](./Day%203/10-3Sum.js) | [Problem Link](https://leetcode.com/problems/3sum/) (Medium)**
+- [x] **Container With Most Water | [Problem Link](https://leetcode.com/problems/container-with-most-water/) (Medium)**
+- [x] **Remove Duplicates from Sorted Array | [Problem Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) (Easy)**
 
 ### Day 4 – Sliding Window
 
