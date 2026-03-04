@@ -1,21 +1,21 @@
 # 10-Day LeetCode Grind - 40 Problems
 
-![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow) ![LeetCode](https://img.shields.io/badge/Platform-LeetCode-orangered) ![Progress](https://img.shields.io/badge/Progress-37.5%25-darkgreen)
+![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow) ![LeetCode](https://img.shields.io/badge/Platform-LeetCode-orangered) ![Progress](https://img.shields.io/badge/Progress-40%25-darkgreen)
 
 ## Progress Summary
 
-| Day | Topic                  | Status         | Done |
-| :-- | :--------------------- | :------------- | :--- |
-| 1   | Arrays & Hashing       | 🟢 Complete    | 4/4  |
-| 2   | Arrays & Prefix/Greedy | 🟢 Complete    | 4/4  |
-| 3   | Two Pointers           | 🟢 Complete    | 4/4  |
-| 4   | Sliding Window         | 🟡 In Progress | 3/4  |
-| 5   | Stack                  | ⚪ Pending     | 0/4  |
-| 6   | Binary Search          | ⚪ Pending     | 0/4  |
-| 7   | Linked List            | ⚪ Pending     | 0/4  |
-| 8   | Trees                  | ⚪ Pending     | 0/4  |
-| 9   | Trees & Heap           | ⚪ Pending     | 0/4  |
-| 10  | Graphs & DP            | ⚪ Pending     | 0/4  |
+| Day | Topic                  | Status      | Done |
+| :-- | :--------------------- | :---------- | :--- |
+| 1   | Arrays & Hashing       | 🟢 Complete | 4/4  |
+| 2   | Arrays & Prefix/Greedy | 🟢 Complete | 4/4  |
+| 3   | Two Pointers           | 🟢 Complete | 4/4  |
+| 4   | Sliding Window         | 🟢 Complete | 4/4  |
+| 5   | Stack                  | ⚪ Pending  | 0/4  |
+| 6   | Binary Search          | ⚪ Pending  | 0/4  |
+| 7   | Linked List            | ⚪ Pending  | 0/4  |
+| 8   | Trees                  | ⚪ Pending  | 0/4  |
+| 9   | Trees & Heap           | ⚪ Pending  | 0/4  |
+| 10  | Graphs & DP            | ⚪ Pending  | 0/4  |
 
 ---
 
@@ -47,7 +47,7 @@
 - [x] **[Longest Substring Without Repeating Characters](./Day%204/13-LongestSubstringWithoutRepeatingCharacters.js) | [Problem Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/) (Medium)**
 - [x] **[Longest Repeating Character Replacement](./Day%204/14-LongestRepeatingCharacterReplacement.js) | [Problem Link](https://leetcode.com/problems/longest-repeating-character-replacement/) (Medium)**
 - [x] **[Minimum Size Subarray Sum](./Day%204/15-MinimumSizeSubarraySum.js) | [Problem Link](https://leetcode.com/problems/minimum-size-subarray-sum/) (Medium)**
-- [ ] **Permutation in String | [Problem Link](https://leetcode.com/problems/permutation-in-string/) (Medium)**
+- [x] **[Permutation in String](./Day%204/16-PermutationInString.js) | [Problem Link](https://leetcode.com/problems/permutation-in-string/) (Medium)**
 
 ### Day 5 – Stack & Monotonic Stack
 
